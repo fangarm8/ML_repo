@@ -1,0 +1,1 @@
+for i in {000..099} do echo  > "${i}.txt" done
